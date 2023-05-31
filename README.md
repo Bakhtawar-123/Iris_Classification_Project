@@ -31,8 +31,6 @@ Report Generation:
 Lastly, to summarize and present my findings, I generated a comprehensive report on the Iris classification project. The report includes details about the dataset, data analysis insights, information about the three algorithms employed (Logistic Regression, KNN, Decision Tree), and the corresponding accuracy results. Additionally, I included visualizations of the decision boundaries created by the models to provide a visual understanding of their performance.
 
 Conclusion:
-In this project, I successfully tackled the task of iris classification using the Iris dataset. By employing Logistic Regression, KNN, and Decision Tree algorithms, I achieved a remarkable 100% accuracy score for all three models. This accomplishment demonstrates the effectiveness of these algorithms in accurately classifying the different iris species based on their measurements. If you're interested in exploring the code and findings further, please check out the GitHub repository linked below. Feel free to provide any feedback or suggestions; I'm always eager to learn and improve.
-
-GitHub Repository: [Insert your GitHub repository link]
+In this project, I successfully tackled the task of iris classification using the Iris dataset. By employing Logistic Regression, KNN, and Decision Tree algorithms, I achieved a remarkable 100% accuracy score for all three models. This accomplishment demonstrates the effectiveness of these algorithms in accurately classifying the different iris species based on their measurements. Feel free to provide any feedback or suggestions; I'm always eager to learn and improve.
 
 Thank you for your time and happy coding!
