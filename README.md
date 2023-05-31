@@ -13,7 +13,9 @@ The Iris dataset is a well-known dataset in the field of machine learning and da
 
 # Approach:
 
-Data Analysis:
+# Data Analysis:
+![image](https://github.com/Bakhtawar-123/Iris_Classification_Project/assets/82812762/15d61bc4-7627-4292-9341-351fb2d59742)
+
 Before diving into the model training, I performed a thorough data analysis to gain insights into the dataset. I explored the distribution of the features, and visualized the relationships between variables using various plots and statistical measures. This step was crucial in understanding the dataset's structure and preparing it for the subsequent modeling phase.
 
 # Model Training:
