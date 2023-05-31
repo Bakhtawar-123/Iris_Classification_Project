@@ -25,10 +25,10 @@ c) Decision Tree:
 Decision trees are versatile algorithms that recursively split the data based on the most informative features, leading to decision rules. With the Iris dataset, I trained a decision tree classifier, which exhibited exceptional performance, achieving a perfect 100% accuracy score.
 
 Evaluation:
-To validate the accuracy of the trained models, I employed appropriate evaluation metrics such as accuracy score, precision, recall, and F1 score. In all three cases (Logistic Regression, KNN, and Decision Tree), I obtained a 100% accuracy score, indicating that the models were able to accurately classify the iris flowers based on the given features.
+I obtained a 100% accuracy score, indicating that the models were able to accurately classify the iris flowers based on the given features.
 
 Report Generation:
-Lastly, to summarize and present my findings, I generated a comprehensive report on the Iris classification project. The report includes details about the dataset, data analysis insights, information about the three algorithms employed (Logistic Regression, KNN, Decision Tree), and the corresponding accuracy results. Additionally, I included visualizations of the decision boundaries created by the models to provide a visual understanding of their performance.
+Lastly, I generated a comprehensive report on the Iris classification project. The report includes details about the dataset, data analysis insights. 
 
 Conclusion:
 In this project, I successfully tackled the task of iris classification using the Iris dataset. By employing Logistic Regression, KNN, and Decision Tree algorithms, I achieved a remarkable 100% accuracy score for all three models. This accomplishment demonstrates the effectiveness of these algorithms in accurately classifying the different iris species based on their measurements. Feel free to provide any feedback or suggestions; I'm always eager to learn and improve.
