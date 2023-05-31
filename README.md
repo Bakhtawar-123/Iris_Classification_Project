@@ -4,7 +4,7 @@
 Introduction:
 Hey everyone! I recently completed a fascinating project on iris classification, and I wanted to share my findings and experience with you all. In this project, I worked with the famous Iris dataset, which consists of 150 rows and 5 columns. My primary goal was to analyze the data, train models using three different algorithms (Logistic Regression, K-Nearest Neighbors, and Decision Tree), and evaluate their accuracy. The most exciting part? All three algorithms achieved a remarkable 100% accuracy! Let's dive into the details.
 
-Dataset Description:Iris.csv
+Dataset Description:
 The Iris dataset is a well-known dataset in the field of machine learning and data analysis. It contains measurements of four features (sepal length, sepal width, petal length, and petal width) for three different species of iris flowers (setosa, versicolor, and virginica). The dataset is widely used for classification tasks due to its simplicity and clear patterns.
 
 Approach:
